@@ -5,7 +5,7 @@ This project demonstrates an edge-AI system for accurate phasor current estimati
 ---
 
 ![Experimental Setup](./ExperimentalSetup.png)
-![Actual vs Predicted Values](image.jpg)
+![Actual vs Predicted Values](./Output.png)
 
 ---
 
